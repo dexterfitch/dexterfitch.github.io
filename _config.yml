@@ -1,11 +1,11 @@
 # Site settings
 author: Dexter Fitch
-title: 
+title: Stumbling Building Blocks
 header-img: img/home-bg.png
 email: fitch.dexter@gmail.com
 copyright_name: Dexter Fitch
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Platforming over learning hurdles
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dexterfitch
