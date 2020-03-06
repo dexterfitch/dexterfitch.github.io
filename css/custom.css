@@ -1,0 +1,68 @@
+/* Custom CSS overrides for Dexter Fitch Blog */
+
+/* Typography */
+body {
+  font-family: 'Rubik Mono One', 'Times New Roman', serif;
+  font-size: 20px;
+  color: #404040;
+}
+.intro-header .post-heading .meta {
+  font-family: 'Rubik Mono One', 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 20px;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Space Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  line-height: 1;
+}
+.intro-header .site-heading .subheading, .intro-header .page-heading .subheading {
+  font-size: 24px;
+  line-height: 1.1;
+  display: block;
+  font-family: 'Space Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+}
+.navbar-custom {
+  background: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 3;
+  font-family: 'Space Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.intro-header .post-heading .subheading {
+  font-family: 'Space Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  margin: 10px 0 30px;
+  font-weight: 600;
+}
+.btn {
+  font-family: 'Space Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  border-radius: 0;
+  padding: 15px 25px;
+}
+.pager li > a, .pager li > span {
+  font-family: 'Space Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 10px 5px;
+  background-color: white;
+  border-radius: 0;
+}
+
+
+
+
+font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Space Mono', monospace;
