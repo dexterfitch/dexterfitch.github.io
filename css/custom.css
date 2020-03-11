@@ -1,6 +1,5 @@
 /* Custom CSS overrides for Dexter Fitch Blog */
 
-<<<<<<< HEAD
 /* Palette */
 /*F7F7F7 (white) - Light shades */
 /*EF80AD (blush pink) - Light accent */
@@ -8,9 +7,16 @@
 /*C4736B (burnt orange-pink) - Dark accent */
 /*745E70 (dark lavender) - Dark shades */
 
-=======
->>>>>>> 77074aa19dc4948e7e20682279500013e4ed28aa
-/* Typography */
+
+/* 
+
+  SECTIONS
+    01.Typography
+    02.Nav
+
+*/
+
+/* 01.Typography */
 body {
   font-family: 'Rubik Mono One', 'Times New Roman', serif;
   font-size: 20px;
@@ -71,6 +77,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 0;
 }
 
+/* 02.Nav */
 @media only screen and (min-width: 768px) {
   .navbar-custom .nav li a {
       color: #81DD88;
