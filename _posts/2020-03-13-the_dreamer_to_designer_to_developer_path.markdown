@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Dreamer to Designer to Developer Path"
-date:       2020-03-13 21:11:33 +0000
+date:       2020-03-13 17:11:34 -0400
 permalink:  the_dreamer_to_designer_to_developer_path
 ---
 
