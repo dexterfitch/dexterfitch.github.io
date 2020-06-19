@@ -58,3 +58,13 @@ body,
 .navbar-right {
   margin-right: 0;
 }
+
+@media only screen and (min-width: 1170px) {
+  .navbar-custom.is-fixed {
+    background-color: rgba(129, 221, 136, 0.9);
+    border-bottom: 1px solid #81DD88;
+  }
+  .navbar-custom.is-fixed .navbar-brand {
+    color: #F7F7F7;
+  }
+}
