@@ -28,6 +28,7 @@ body,
 .btn,
 .pager li > a, .pager li > span {
   font-family: 'Space Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  letter-spacing: 1px;
 }
 
 /* 02.Nav */
