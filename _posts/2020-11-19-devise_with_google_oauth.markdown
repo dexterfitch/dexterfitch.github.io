@@ -56,8 +56,8 @@ These commands will install Devise to your rails app, and set up the User model,
 <h3 style="margin-bottom: 0"><span id="step_three">Step Three</span></h3>
 <h4 style="margin-top: 4px">Prepare your app for OmniAuth.</h4>
 
-First, let's open our main application layout file and create a space for Devise's error messages to appear.
-`*/app/views/layouts/application.html.erb`
+First, let's open our main application layout file (`*/app/views/layouts/application.html.erb`) and create a space for Devise's error messages to appear.
+
 Right above the `<%= yield %>`, add:
 ```
 <p class="notice"><%= notice %></p>
