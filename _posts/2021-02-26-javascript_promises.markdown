@@ -5,11 +5,9 @@ date:       2021-02-26 12:34:56 -0400
 permalink:  javascript_promises
 ---
 
-## Promises, Promises
-
 #### What is a JavaScript Promise object, and why is it essential for asynchronous operations?
 
-Alas, there is no cute pinky-hook or an exchange of rings with these promises. The official docs define JS promises as objects "that allow you to defer further actions until after a previous action has completed, or respond to its failure." That's great, but what does that mean?
+Alas, there is no cute pinky-hook or an exchange of rings with these promises. The [official docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) define JS promises as objects "that allow you to defer further actions until after a previous action has completed, or respond to its failure." That's great, but what does that mean?
 
 Let's get metaphorical. Consider what happens when you go out shopping for groceries. 
 
