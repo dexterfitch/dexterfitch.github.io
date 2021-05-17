@@ -308,4 +308,4 @@ Open `*/config/initializers/devise.rb` and scroll down towards the bottom of the
 
 Next, you have to go to [Google's API](https://console.cloud.google.com/projectcreate) and create your project there.
 
-[Click here](/devise_with_google_oauth_2) for the next part.
+[Click here](/the_breakdown_rails5_devise_google_oauth_2) for the next part.
