@@ -6,14 +6,14 @@ permalink:  the_breakdown_rails5_devise_google_oauth
 ---
 
 
-> Greetings, weary traveller. I am no sage. I have no wisdom to depart. I barely even know what I'm doing. But I **DO** have this: what I hope is a pretty good guide to quickly getting a secure and user friendly account creation and login system working in your rails app during development by leveraging [Devise](link) and [OmniAuth](link) with [Google API](link). There's a lot of good guides out there on this particular process, and for a reason: it's gosh-darn fiddly. I figure having one more demonstration and a fresh approach can't hurt. Good luck and safe journey!
+> Greetings, weary traveller. I am no sage. I have no wisdom to depart. I barely even know what I'm doing. But I **DO** have this: what I hope is a pretty good guide to quickly getting a secure and user friendly account creation and login system working in your rails app during development by leveraging [Devise](https://github.com/heartcombo/devise) and [OmniAuth](https://github.com/omniauth/omniauth) with [Google API](https://console.cloud.google.com/). There's a lot of guides out there on this particular process, and for a reason: it's gosh-darn fiddly. I figure having one more demonstration and a fresh approach can't hurt. Good luck and safe journey!
 
 
 ## The Basics
 
 #### Step Zero: Have a rails app ready for User model generation. 
 
-> If you're already lost, I am sorry. [Go in peace, friend](link).
+> If you're already lost, I am sorry. [Go in peace, friend](https://www.youtube.com/watch?v=5qap5aO4i9A).
 
 #### [Step One](#step_one): Get some gems and bundle those suckers.
 
@@ -308,4 +308,4 @@ Open `*/config/initializers/devise.rb` and scroll down towards the bottom of the
 
 Next, you have to go to [Google's API](https://console.cloud.google.com/projectcreate) and create your project there.
 
-Author's Note: This is a WIP - I intend to create a video guide for the next part.
+[Click here](/devise_with_google_oauth_2) for the next part.
